@@ -1,4 +1,4 @@
-![logo](https://avatars.githubusercontent.com/u/116460358?s=400&u=05412fe204877d8c5891d24171ec489f4fdc4b24&v=4)
+
 <h1 align="center">Hi 👋, I'm Furkan Ayaoku</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="<h1 align="center">Hi 👋, I'm Furkan Ayaoku</h1>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/furkan ayaoku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan ayaoku" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/furkan-ayaoku-992615263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan ayaoku" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
